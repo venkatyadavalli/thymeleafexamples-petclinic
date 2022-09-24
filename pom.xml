@@ -5,7 +5,7 @@
     <groupId>thymeleafexamples</groupId>
     <artifactId>petclinic</artifactId>
     <version>20131006</version>
- 
+      good morning
     <name>petclinic</name>
     <packaging>war</packaging>
 

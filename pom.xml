@@ -5,10 +5,10 @@
     <groupId>thymeleafexamples</groupId>
     <artifactId>petclinic</artifactId>
     <version>20131006</version>
-    good
+  
     <name>petclinic</name>
     <packaging>war</packaging>
-    fine
+  
     <properties>
 	    
         <!-- Generic properties -->

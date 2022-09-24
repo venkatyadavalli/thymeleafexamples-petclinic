@@ -5,12 +5,12 @@
     <groupId>thymeleafexamples</groupId>
     <artifactId>petclinic</artifactId>
     <version>20131006</version>
-good morning
+
     <name>petclinic</name>
     <packaging>war</packaging>
 
     <properties>
-    	good evening    
+    	    
         <!-- Generic properties -->
         <java.version>1.6</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
